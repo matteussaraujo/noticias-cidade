@@ -1,2 +1,2 @@
 # noticiasdacidade
-Site de noticias desenvolvido para um blog da cidade
+Site de notícias desenvolvido para um blog da cidade para portfólio  
