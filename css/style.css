@@ -93,7 +93,6 @@ body.saude #navegacao a#saude
     width: 270px;
     float: left;
     margin: 0 0 20px 15px;
-    background: green;
 }
 
 #container-rodape{
@@ -158,6 +157,24 @@ input.submit{
     
 }
 
+/* Formatando imagens*/
+
+img.imagem-principal{
+    width: 98%;
+    border:3px solid #dfdfdf;
+}
+/* Formatando cabeçalhos */
+h3{
+    text-transform: uppercase;
+    display: inline;
+    font-size: 0.8em;
+    padding: 3px;
+
+}
+.destaque h3{
+    background: #b10333;
+    color: #fff;
+}
 /* rodape */
 #container-rodape{
     background: #294c71;
