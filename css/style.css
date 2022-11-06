@@ -100,7 +100,7 @@ body.saude #navegacao a#saude
     background: #294c71;
     padding: 20px;
 }
-/*Caixa*/
+/*Caixa */
 .caixa{
     margin: 10px 0;
     padding: 5px 0 5px 0;
@@ -117,6 +117,47 @@ background: #fff;
 padding: 5px;
 margin-top: 5px;
 }
+
+/*Formatar menus laterais
+*/
+
+#lateral ul a{
+    font-size: 0.9em;
+    padding: 3px;
+    display: block;
+    line-height: 30px;
+    color: #000;
+    text-decoration: none;
+    border-bottom: 1px solid #f3f3f3;
+}
+#lateral ul a:hover{
+    background: #f9f9f9 url(/img/marcador.png) no-repeat left center;
+    padding-left: 20px;
+    color: #a1a1a1;
+}
+/* Formatando formularios
+*/
+label{
+    display: block;
+    cursor: pointer;
+}
+
+input{
+    padding: 5px;
+    width: 125px;
+    font-size: 0.9em;
+    background-color: #fff;
+}
+
+input.submit{
+    width: 80px;
+    color:#fff;
+    background-color: #b10333;
+    border: 2px solid #b70529;
+    
+    
+}
+
 /* rodape */
 #container-rodape{
     background: #294c71;
